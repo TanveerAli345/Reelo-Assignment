@@ -2,6 +2,8 @@
 
 The website is built using HTML, CSS, JS, and ReactJS (React-Select library). This project was created as an interview assignment for “Reelo”.
 
+Project deployed at: https://nasa-query-app-tanveer.netlify.app/
+
 https://github.com/TanveerAli345/Reelo-Assignment/assets/104294807/f1d092b3-c3da-443d-999d-40d1b2fb7d16
 
 ## Getting Started
