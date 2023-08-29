@@ -1,8 +1,32 @@
-# React + Vite
+## Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The website is built using HTML, CSS, JS, and ReactJS (React-Select library). This project was created as an interview assignment for “Reelo”.
 
-Currently, two official plugins are available:
+https://github.com/TanveerAli345/Reelo-Assignment/assets/104294807/f1d092b3-c3da-443d-999d-40d1b2fb7d16
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+To get started, clone the repository and install the dependencies:
+
+`npm install`
+
+## Running the Development Server
+
+To start the development server, run the following command:
+
+`npm run dev`
+
+This will start the development server and open the application in your default browser. Any changes you make to the code will be automatically reflected in the browser.
+
+## Building for Production
+
+To build the application for production, run the following command:
+
+`npm run build`
+
+This will create a production-ready build in the `dist` directory.
+
+## Additional resources
+
+- [Vite.js documentation](https://github.com/vitejs/vite)
+- [React documentation](https://reactjs.org/)
